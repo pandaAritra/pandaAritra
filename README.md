@@ -20,12 +20,12 @@ Most projects here started as “how hard could it be?”
   
 # 
 
-- I use Linux because I like hostile environment
-- I use Vim btw
+- I use Arch btw
+- I use Nvim btw
 - I also read man pages btw
 - `TODO: fix later` is a write-ahead log for bad decisions
-- I once caused a segfault in a go
-- The One Piece is eventual consistency
+- I once caused a segfault in go
+- One Piece is eventual consistency
 
 <div align="left">
 
