@@ -1,12 +1,12 @@
  <h1 display="flex-box"> Hey! 👋 </h1>
  
-</div>
+<p>
 Just a guy trying to understand computers before AI turns `rm -rf /` into a “productivity workflow.”
 
 Mostly building backend systems, breaking Linux installs, reading kernel docs I barely understand, and rewriting things from scratch because the abstraction offended me personally.
 
-Most projects here exist because “quick side project, how hard could it be?” is usually the beginning of a psychological event
-</div>
+Most projects here started as “how hard could it be?”
+</p>
 
 <div align="left">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -18,7 +18,7 @@ Most projects here exist because “quick side project, how hard could it be?”
 
 <div align="left">
   
-# Fun Facts
+# 
 
 - I use Linux because I like hostile environment
 - I use Vim btw
@@ -37,7 +37,5 @@ Most projects here exist because “quick side project, how hard could it be?”
 <img src="https://img.shields.io/badge/os-arch_linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/shell-bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/browser-firefox-orange?style=flat-square&logo=firefox-browser&logoColor=white" />
-<img src="https://img.shields.io/badge/terminal-kitty-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
-
-</div>
+<img src="https://img.shields.io/badge/terminal-kitty-7E57C2?style=flat-square&logo=kitty&logoColor=white" />
 </div>
