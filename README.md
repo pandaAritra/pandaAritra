@@ -1,11 +1,11 @@
  <h1 display="flex-box"> Hey! 👋 </h1>
  
 <p>
-Just a guy trying to understand computers before AI turns `rm -rf /` into a “productivity workflow.”
+Just a guy trying to understand computers 
 
-Mostly building backend systems, breaking Linux installs, reading kernel docs I barely understand, and rewriting things from scratch because the abstraction offended me personally.
+Mostly building backend systems, breaking Linux installs, reading docs I barely understand, and rewriting things from scratch because the abstraction offended me personally.
 
-Most projects here started as “how hard could it be?”
+Most projects here started as “lets see how that works”
 </p>
 
 <div align="left">
@@ -23,9 +23,6 @@ Most projects here started as “how hard could it be?”
 - I use Arch btw
 - I use Nvim btw
 - I also read man pages btw
-- `TODO: fix later` is a write-ahead log for bad decisions
-- I once caused a segfault in go
-- One Piece is eventual consistency
 
 <div align="left">
 
